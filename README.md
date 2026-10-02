@@ -6,7 +6,7 @@ Windows x64。支持键盘、Xbox 和 PlayStation 手柄。
 
 ## 下载
 
-[Windows 安装版](https://github.com/Tsuru0099/Roller-Releases/releases)
+[Windows 安装版](https://roller.tsuru.studio)
 
 运行组件与教程内置。安装后直接使用。
 
